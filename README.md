@@ -16,9 +16,11 @@ The Atlas is a humanoid robot designed to assist emergency management teams in h
 man-made catastrophes. It can perform tasks such as flipping switches, shutting off valves, opening doors, and running power equipment. These functions are possible through the use of components such as lightweight
 hydraulics and 3D-printed appendages. It also uses LiDAR and stereo vision to effectively navigate through
 rough terrains.
+
 Strengths:
 - 3D printing is used to manufacture components to save weight and space, resulting in a compact robot with a high strength-to-weight ratio
 - Advanced control algorithms enable the robot to plan and perform actions based on the environment it analyses
+
 Weaknesses:
 - Too large to fit in tight spaces, inefficient in spotting and saving casualties in such spaces
 - Ineffective in other terrains, such as water and air, hence only useful for land
